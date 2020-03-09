@@ -13,7 +13,7 @@ de algunos modulos, espero que os guste
 - crear una base de datos 
 - copiar el archivo .env.example llamarlo .env
 - Configurar la conección a la Base de Datos en el .env
-##Comandos
+## Comandos
 ```bash
 composer install
 ```
@@ -33,11 +33,11 @@ php artisan db:seed
 php artisan serve
 ```
 
-##Observaciones
+## Observaciones
 Si desea loguearse con una red social,preferiblemente loguearse con Google o Github ya que para loguearse con facebook es necesario configurarlo desde un servidor SSL
 o no devolvovera la información de acceso.
 
-#Credenciales 
+# Credenciales 
 - User: admin@correo.com
 - Password:12345
 
